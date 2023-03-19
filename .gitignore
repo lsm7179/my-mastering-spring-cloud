@@ -1,2 +1,5 @@
+/.idea/
 /.idea/gradle.xml
 /.idea/jpa-buddy.xml
+/.idea/jarRepositories.xml
+/my-mastering-spring-cloud.iml
