@@ -3,3 +3,29 @@
 /.idea/jpa-buddy.xml
 /.idea/jarRepositories.xml
 /my-mastering-spring-cloud.iml
+
+### Java template
+bin/
+.project
+.settings
+
+*.class
+*.classpath
+*.log
+*.jar
+
+### Gradle template
+build/
+.gradle
+
+### JetBrains template
+.idea
+*.iml
+*.iws
+*.ipr
+**/.idea
+**/*.iml
+**/*.iws
+**/*.ipr
+### Plugin template
+lombok.config
